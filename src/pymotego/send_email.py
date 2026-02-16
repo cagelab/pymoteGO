@@ -5,7 +5,7 @@ from typing import Iterable, Sequence
 
 from httpx import Client, Response, URL
 
-from pymotego._constants import DEFAULT_API_BASE_URL
+from pymotego.constants import DEFAULT_API_BASE_URL
 
 EMAIL_ENDPOINT = "email"
 
