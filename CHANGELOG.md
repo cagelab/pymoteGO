@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.5](https://github.com/cagelab/pymoteGO/compare/v0.1.4...v0.1.5) (2026-02-18)
+
+
+### Features
+
+* **email:** :sparkles: add email threading and embedded image support ([#8](https://github.com/cagelab/pymoteGO/issues/8)) ([67b19b1](https://github.com/cagelab/pymoteGO/commit/67b19b141123e8c7a3aafe284f3af986b5b2da7f))
+
 ## [0.1.4](https://github.com/cagelab/pymoteGO/compare/v0.1.3...v0.1.4) (2026-02-16)
 
 
